@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="Header Animation">
-</div>
+  <!-- Typing Banner -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;Database+Engineering+Student;Full+Stack+Developer" alt="Typing SVG" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=800&color=FACC15&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Database+Engineering+Student;Full+Stack+Developer" alt="Typing SVG" />
-</div>
+  <br><br>
 
-<div align="center">
+  <!-- Social Links -->
   <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_URL]/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -16,84 +14,44 @@
 </div>
 
 <br>
-
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td width="55%" valign="top" align="left">
-        <br>
-        <h2>👨‍💻 Core Competencies</h2>
-        <p>I am a <strong>Computer Science Engineer</strong> and incoming <strong>Master's Student in Database Engineering</strong>. I specialize in <strong>Full-Stack Web Development</strong>, relational database design, and building efficient system architectures.</p>
-        <ul>
-          <li>🎓 Bachelor's Degree in <strong>Computer Science Engineering</strong>.</li>
-          <li>💼 Completed a 4-month Engineering Internship at <strong>Sonelgaz</strong>.</li>
-          <li>🗄️ Specialized in <strong>Database Architecture, SQL & Web Technologies</strong>.</li>
-        </ul>
-      </td>
-      <td width="45%" valign="center" align="right">
-        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
 <hr>
 
-<h2 align="center">⚙️ Global Technology Map</h2>
-<div align="center">
-  <br>
-  <table border="0" cellpadding="10">
-    <tr align="center">
-      <td><img src="https://cdn.simpleicons.org/mysql/eee" height="50"><br><small>MySQL</small></td>
-      <td><img src="https://cdn.simpleicons.org/postgresql/eee" height="50"><br><small>PostgreSQL</small></td>
-      <td><img src="https://cdn.simpleicons.org/php/eee" height="50"><br><small>PHP</small></td>
-      <td><img src="https://cdn.simpleicons.org/javascript/eee" height="50"><br><small>JavaScript</small></td>
-      <td><img src="https://cdn.simpleicons.org/html5/eee" height="50"><br><small>HTML5</small></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://cdn.simpleicons.org/css3/eee" height="50"><br><small>CSS3</small></td>
-      <td><img src="https://cdn.simpleicons.org/git/eee" height="50"><br><small>Git</small></td>
-      <td><img src="https://cdn.simpleicons.org/github/eee" height="50"><br><small>GitHub</small></td>
-      <td><img src="https://cdn.simpleicons.org/python/eee" height="50"><br><small>Python</small></td>
-      <td><img src="https://cdn.simpleicons.org/bootstrap/eee" height="50"><br><small>Bootstrap</small></td>
-    </tr>
-  </table>
-</div>
+<!-- About Me -->
+<h2>👩‍💻 About Me</h2>
+
+* 🎓 **Education:** Computer Science Engineer | Incoming Master's Student in Database Engineering.
+* 💼 **Experience:** Completed a 4-month Software & IT Internship at **Sonelgaz**.
+* 🚀 **Focus:** Full-Stack Web Development, Database Architecture, and System Optimization.
 
 <br>
-<hr>
 
-<h2 align="center">⚡️ Stats</h2>
-<br>
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&theme=transparent&count_private=true&show_icons=true&rank_icon=github&text_color=ffffff&icon_color=FACC15&title_color=FACC15" alt="GitHub Stats" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=transparent&count_private=true&border_radius=10&stroke=FACC15&ring=FACC15&fire=FACC15&currStreakNum=ffffff" alt="Streak Stats" />
-  <br><br>
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=[YOUR_GITHUB_USERNAME]&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&text_color=ffffff&icon_color=FACC15&title_color=FACC15" alt="Most Used Languages" />
-</div>
+<!-- Tech Stack -->
+<h2>⚙️ Tech Stack</h2>
 
-<br>
-<hr>
-
-<h2 align="center">🐍 Contribution Journey</h2>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<br>
-<hr>
-<br>
-
-<div align="center">
-  <h3>Let's Connect and Build Something Great</h3>
-  <p>Open to academic collaborations, software engineering discussions, and database projects.</p>
-</div>
-
-<p align="right">
-  <i>"Excellence is not an act, but a habit."</i>
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+<br>
+
+<!-- GitHub Stats -->
+<h2>📊 GitHub Overview</h2>
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&theme=transparent&show_icons=true&title_color=FACC15&text_color=ffffff&icon_color=FACC15" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=[YOUR_GITHUB_USERNAME]&theme=transparent&layout=compact&title_color=FACC15&text_color=ffffff" />
+</div>
+
+<br>
+<hr>
+
+<!-- Footer -->
+<div align="center">
+  <p>💡 <i>"Building efficient data systems and web applications."</i></p>
+</div>
